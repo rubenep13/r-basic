@@ -31,12 +31,15 @@ pi
 
 pi^2
 
+#ininito
 Inf
 
 -Inf
 
+#Indeterminacion
 NA
 
+#Not a number p.e. 0/0
 NaN
 
 5/0
@@ -49,18 +52,22 @@ NaN
 
 c(2^30, 2^(-15), 1, 2, 3/2)
 
-
+#raiz cuadrada
 sqrt(25)
 
+#exponente de e
 exp(1)
 
+#logaritmo neperiano de pi
 log(pi)
 
+#logaritmo de 32 en base 2
 log(32, 2)
 
 log(32, base = 2)
 log(base=2, 32)
 
+#absoluto
 abs(-pi)
 
 factorial(7)
